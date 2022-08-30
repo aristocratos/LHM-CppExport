@@ -61,3 +61,11 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+*.suo
+[Bb]in/
+[Oo]bj/
+.idea/
+.vs/
+packages/
+x64/
+Release/
